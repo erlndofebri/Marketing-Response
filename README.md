@@ -6,7 +6,7 @@ A pilot campaign involving 2.240 customers was carried out, customers who bought
 After doing prediction and give proper simulation, using our model and recommendation can **potentially increase up to 19.37% conversion rate** and also can increase **40.91% revenue**
 
 ## Project Background
-The objective of the team is to develop a model that predicts customer behavior whether it'll reponse the marketing or not.
+The objective of this project is to develop a model that predicts customer behavior whether it'll reponse/accept the marketing campaign or not.
 
 Moreover, other than maximizing the profit of the campaign, the CMO is interested in understanding to study the characteristic features of those customers who are willing to buy the gadget. 
 
